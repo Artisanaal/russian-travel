@@ -1,3 +1,3 @@
-# Проект: Путешествие по России. Ссылка на github pages: https://github.com/Artisanaal/russian-travel/index.html
+# Проект: Путешествие по России. Ссылка на github pages: https://github.com/Artisanaal/russian-travel/
 ## Описание проекта: Проект о путешествии по России. Отличие от предыдущей работы велико, мы работали с макетом из Figma * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0), использовали Грид-раскладку (CSS Grid Layout), использовали медиа запросы, сделали адаптивный сайт.
 ### Инструкция по установке: Заходим на профиль гитхаб https://github.com/Artisanaal/russian-travel , нажимаем на кнопку "code" и далее "Download zip"
